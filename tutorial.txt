@@ -25,8 +25,16 @@ Gerar token GitHub
 3) Token classic
 4) Gerar o token selecionando tudo, guardar o token
 
+________________________________________________________
 
-
+Boas práticas na programação
+1) Cabeçalho da documentação
+/**
+    Nome do projeto
+    Descrição da classe / função
+    @autor Jean Andrade
+    @version 1.0
+*/
 
 
 
