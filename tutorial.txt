@@ -36,6 +36,29 @@ Boas práticas na programação
     @version 1.0
 */
 
+______________________________________________________________
+
+Node - Plataforma que permite a execução do JavaScript
+fora do navegador (browser)
+https://nodejs.org/pt (baixar sempre a versão LTS)
+
+Comandos Basicos:
+
+node -v (verificar a versão)
+
+Gerenciador de pacote para o node:
+
+# npm está relacionado a pasta do projeto ou seja
+os pacotes são instalados na raiz do projeto e não no sistema operacional
+
+npm -v (verificar a versão)
+npm ls (listar pacotes instalados)
+
+npm init (iniciar um novo projeto JavaScript)
+    |__package.json (após iniciar um novo projeto, é criado um arquivo .json)
+
+json (JavaScript Object Notation)
+
 
 
 

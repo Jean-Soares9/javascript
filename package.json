@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Tutorial de lógica de programação com JavaScript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-Soares9/javascript.git"
+  },
+  "author": "Jean Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jean-Soares9/javascript/issues"
+  },
+  "homepage": "https://github.com/Jean-Soares9/javascript#readme"
+}
