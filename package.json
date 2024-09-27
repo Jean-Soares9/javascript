@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Jean-Soares9/javascript/issues"
   },
-  "homepage": "https://github.com/Jean-Soares9/javascript#readme"
+  "homepage": "https://github.com/Jean-Soares9/javascript#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
 }
