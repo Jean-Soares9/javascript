@@ -19,9 +19,10 @@ console.clear()
 console.log("Cálculo do valor de uma corrida de taxi")
  
 //entrada
-valorkm = 5
+
+valorkm = Number(input.question("Taxa por Km: "))
 distancia = Number(input.question("Distancia percorrida: "))
- 
+
  
 //processamento
  
@@ -29,4 +30,4 @@ valorc = valorkm * distancia
  
 //saida
  
-console.log(`valor total: ${valorc}`)
+console.log(`Valor total: R$ ${valorc.toFixed(2)}`)
