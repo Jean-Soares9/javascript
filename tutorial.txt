@@ -162,6 +162,10 @@ console.clear() -> Limpar a tela do console
 const -> criar(declarar)uma constantelet ->criar(declerar) uma variavel
 typeof() ->verificar o tipo de variavel
 
+_______________________________________________________
+
+
+
 
 
 
