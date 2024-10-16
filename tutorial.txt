@@ -164,7 +164,36 @@ typeof() ->verificar o tipo de variavel
 
 _______________________________________________________
 
+estruturas de controle 
+-   condicionais
+- laços de repetições
+ 
+ 
+estruturasde controle condicionais
+if (condição) {
+    //condição verdadeira
+}
+ 
+if (condicao) {
+    // condicao verdadeira 
+} else {
+    //condição falsa
+}
+Observações:
+1 ) Uma condição nunca pode ser verdadeira e falsa ao mesmo tempo.
+2 ) No uso de if-else sempre uma das condições sera processada.
 
+if (condicao 1) {
+    // condicao 1 verdadeira 
+} else if(condicao 2) {
+    //condição 2 verdadeira
+} else {
+    // condição falsa
+}
+
+Obs: Nesta estrutura o else é opcional, porém se
+indicado caso não nenhuma condição for verdadeira ele
+obrigatoriamente executará o que estiver no else.
 
 
 
