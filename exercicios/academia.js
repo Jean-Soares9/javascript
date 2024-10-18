@@ -3,21 +3,16 @@
  * @autor Jean Andrade
  */
 
+
 // variaveis
-let nome
-let idade
-let peso
-let altura
-let vip
-let fcm
-let imc
+let nome, idade, peso, altura, vip, fcm, imc
 
 console.clear()
 
 // entrada de dados
 nome = "Jean Andrade"
 idade = 35
-peso = 140
+peso = 87
 altura = 1.80
 vip = true
 

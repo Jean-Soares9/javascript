@@ -195,7 +195,19 @@ Obs: Nesta estrutura o else é opcional, porém se
 indicado caso não nenhuma condição for verdadeira ele
 obrigatoriamente executará o que estiver no else.
 
+switch case (uso de variável numérica (número inteiro))
 
+switch (variavel) {
+    case 1:
+        // código caso o valor da variavel seja 1
+        break
+    case 2:
+        // código caso o valor da variavel seja 2
+        break
+    default:
+        // opcional, o codigo será executado se nenhum caso for definido
+        break
+}
 
 
 
