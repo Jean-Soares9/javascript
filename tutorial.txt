@@ -238,5 +238,9 @@ As estruturas while e do do-while são estruturas de repetições
 infinitas, ou seja enquanto a condição for verdadeira o código 
 interno sera repetido infinitamente.
 
+__________________________________________________________________________
 
+executando o JavaScript junto com o HTML 
+- Executando interna no proprio documento HTML
+- Link com um documento JS (preferenciamente)
 
